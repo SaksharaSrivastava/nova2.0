@@ -65,7 +65,7 @@ test = toast()
 
 
 emails = {
-    "admin": "sakshara",
+    "admin": "sakshara179@gmail.com",
 }
 
 city="sonebhadra" # for weather
